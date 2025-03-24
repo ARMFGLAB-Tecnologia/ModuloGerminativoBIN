@@ -1,0 +1,7 @@
+/latest.bin
+  Content-Type: application/octet-stream
+
+/version.json
+  Content-Type: application/json
+  Access-Control-Allow-Origin: *
+
